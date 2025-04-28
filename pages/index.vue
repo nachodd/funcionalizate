@@ -1,6 +1,7 @@
 <template>
   <div>
     <Hero2 />
+    <Hero />
     <Features />
     <Classes />
     <Testimonials />
